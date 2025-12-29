@@ -69,3 +69,18 @@ SQL (MySQL)
 DBMS / MySQL Workbench
 
 CSV / Structured datasets
+
+🚀 Key Learnings
+
+Improved SQL query writing and optimization
+
+Hands-on experience with real-world datasets
+
+Ability to solve business problems using SQL
+
+Strong foundation for Data Analyst roles
+
+📢 Author
+
+Faizan Bhat
+Aspiring Data Analyst | SQL | Power BI | Data Analytics
